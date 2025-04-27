@@ -2,7 +2,11 @@
              xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
              xmlns:local="clr-namespace:WpfApp9"
+<<<<<<< HEAD
              StartupUri="LoginWindow.xaml">
+=======
+             StartupUri="Register.xaml">
+>>>>>>> 9540fda76e334b2e474cc74b2191f5297fe0c6cb
     <Application.Resources>
          
     </Application.Resources>
